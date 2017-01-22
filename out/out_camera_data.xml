@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<calibration_time>"2017년 01월 22일 (일) 오전 01시 42분 03초"</calibration_time>
+<nr_of_frames>6</nr_of_frames>
+<image_width>1280</image_width>
+<image_height>960</image_height>
+<board_width>8</board_width>
+<board_height>6</board_height>
+<square_size>2.4500000000000000e+01</square_size>
+<fix_aspect_ratio>1.</fix_aspect_ratio>
+<!-- flags: +fix_skew +fix_k4 +recompute_extrinsic -->
+<flags>138</flags>
+<fisheye_model>1</fisheye_model>
+<camera_matrix type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>d</dt>
+  <data>
+    3.6589013067123841e+02 0. 6.3792786610603014e+02 0.
+    3.6659198254330528e+02 4.8693237845395817e+02 0. 0. 1.</data></camera_matrix>
+<distortion_coefficients type_id="opencv-matrix">
+  <rows>4</rows>
+  <cols>1</cols>
+  <dt>d</dt>
+  <data>
+    -6.8978104953509277e-03 3.1095963631503219e-03
+    -2.3965469324687210e-03 0.</data></distortion_coefficients>
+<avg_reprojection_error>5.4460147867200581e-01</avg_reprojection_error>
+</opencv_storage>
